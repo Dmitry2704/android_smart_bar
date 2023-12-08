@@ -30,7 +30,6 @@ public class QRandUstroistvo extends AppCompatActivity {
         upr = findViewById(R.id.upr);
         ustroistvo = findViewById(R.id.ustroistvo);
 
-        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         scan_btn.setOnClickListener(new View.OnClickListener() {
             @Override
