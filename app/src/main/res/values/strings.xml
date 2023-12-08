@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sport</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="login">email</string>
+</resources>

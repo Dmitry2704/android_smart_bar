@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660461598278",
+    "project_id": "turnik-2516d",
+    "storage_bucket": "turnik-2516d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660461598278:android:48f77f58b8f11f8d54bc47",
+        "android_client_info": {
+          "package_name": "com.komanda.sport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyUt8vCudrjo5cWD9pacEIn5uZyuqRv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
